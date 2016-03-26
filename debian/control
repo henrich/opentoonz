@@ -20,5 +20,7 @@ Homepage: https://opentoonz.github.io/
 Package: opentoonz
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
-Description: <insert up to 60 chars description>
- <insert long description, indented with spaces>
+Description: software for producing a 2D animation
+ It is based on the software "Toonz", which was developed by Digital Video
+ S.p.A. in Italy, customized by Studio Ghibli, and has been used for creating
+ its works for many years. 
