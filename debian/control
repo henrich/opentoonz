@@ -1,5 +1,5 @@
 Source: opentoonz
-Section: unknown
+Section: graphics
 Priority: optional
 Maintainer: Hideki Yamane <henrich@debian.org>
 Build-Depends: debhelper (>=9),
@@ -12,8 +12,8 @@ Build-Depends: debhelper (>=9),
                libpng16-dev,
                liblzo2-dev,
                pkg-config,
-Standards-Version: 3.9.6
-Homepage: <insert the upstream URL, if relevant>
+Standards-Version: 3.9.7
+Homepage: https://opentoonz.github.io/
 #Vcs-Git: git://anonscm.debian.org/collab-maint/opentoonz.git
 #Vcs-Browser: https://anonscm.debian.org/cgit/collab-maint/opentoonz.git
 
