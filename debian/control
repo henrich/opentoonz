@@ -9,7 +9,7 @@ Build-Depends: debhelper (>=9),
                libglew1.13,
                liblz4-dev,
                libjpeg-dev | libjpeg62-turbo-dev,
-               libpng16-dev,
+               libpng16-dev | libpng12-dev,
                liblzo2-dev,
                pkg-config,
 Standards-Version: 3.9.7
