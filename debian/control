@@ -10,11 +10,12 @@ Build-Depends: debhelper (>=9),
                libqt5svg5-dev,
                qtscript5-dev,
                libboost-dev | libboost1.58-dev,
-               libglew1.13,
+               libglew-dev,
                liblz4-dev,
                libjpeg-dev | libjpeg62-turbo-dev,
                libpng16-dev | libpng12-dev,
                liblzo2-dev,
+               libusb-1.0-0-dev,
                pkg-config,
 Standards-Version: 3.9.7
 Homepage: https://opentoonz.github.io/
