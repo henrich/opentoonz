@@ -4,13 +4,13 @@ Priority: optional
 Maintainer: Hideki Yamane <henrich@debian.org>
 Build-Depends: debhelper (>=9),
                cmake,
-               qt,
-               libboost,
-               glew,
-               lz4,
+               qtbase5-dev,
+               libboost-dev | libboost1.58-dev,
+               libglew1.13,
+               liblz4-dev,
                libjpeg,
-               libpng,
-               lzo,
+               libpng16-dev,
+               liblzo2-dev,
                pkg-config,
 Standards-Version: 3.9.6
 Homepage: <insert the upstream URL, if relevant>
