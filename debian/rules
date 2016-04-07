@@ -14,4 +14,4 @@
 
 
 %:
-	dh $@ --buildsystem=cmake
+	dh $@ --buildsystem=cmake --sourcedirectory=toonz/sources
